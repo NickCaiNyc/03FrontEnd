@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NickCaiNyc/frontend.git"
+    "url": "git+https://github.com/NickCaiNyc/03FrontEnd.git"
   },
   "author": "nick",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/NickCaiNyc/frontend/issues"
+    "url": "https://github.com/NickCaiNyc/03FrontEnd/issues"
   },
-  "homepage": "https://github.com/NickCaiNyc/frontend#readme",
+  "homepage": "https://github.com/NickCaiNyc/03FrontEnd#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "colors": "^1.4.0",
